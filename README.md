@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jameskrepps12
 - 👀 I’m interested in machine learning, it's applications in cybersecurity, and game development!
-- 🌱 I’m currently learning about data structures and algorithms, systems security, HTML, CSS, JS, and brushing up on networking.
+- 🌱 I’m currently learning about information security policy and ML algorithms.
 - 💞️ I’m looking to collaborate on video game and cybersecurity projects.  
 - 📫 How to reach me best is by messaging me here :)
 

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jameskrepps12
-- 👀 I’m interested in machine learning, it's applications in cybersecurity, and game development!
-- 🌱 I’m currently learning about information security policy and ML algorithms.
+- 👀 I’m interested in cybersecurity and game development!
+- 🌱 I’m currently learning AWS security practices and about UE5.
 - 💞️ I’m looking to collaborate on video game and cybersecurity projects.  
-- 📫 How to reach me best is by messaging me here :)
+- 📫 Reach me best by messaging me here :)
 
 <!---
 jameskrepps12/jameskrepps12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
